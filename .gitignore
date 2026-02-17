@@ -1,0 +1,6 @@
+*.pkl
+*.pth
+*.zip
+*.csv
+*.png
+.DS_Store
