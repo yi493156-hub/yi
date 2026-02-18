@@ -44,3 +44,8 @@ The project includes comparative studies on various hyperparameters including:
 
 Developed as part of the Final Project for the Deep Learning course.
 
+
+## 📺 Project Demo
+Watch the real-world emotion recognition in action:
+
+https://github.com/yi493156-hub/yi/raw/main/demo.mp4
